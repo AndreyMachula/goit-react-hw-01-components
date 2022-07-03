@@ -1,0 +1,21 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  background-color: var(--color);
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.label {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.percentage {
+  font-size: 20px;
+  color: white;
+}
