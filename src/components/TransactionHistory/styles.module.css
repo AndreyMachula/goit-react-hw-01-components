@@ -1,7 +1,7 @@
 table {
   margin-top: 50px;
   margin-bottom: 50px;
-  background-color: greenyellow;
+  background-color: rgb(143, 171, 202);
   border-spacing: 1px;
   border-collapse: collapse;
   box-shadow: 4px 4px 15px 4px black;
@@ -16,7 +16,7 @@ table {
 }
 
 td {
-  width: 150px;
+  width: 135px;
   text-align: center;
   text-transform: capitalize;
 }
