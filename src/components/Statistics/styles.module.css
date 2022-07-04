@@ -4,6 +4,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: white;
   box-shadow: 4px 4px 15px 4px black;
 }
 
