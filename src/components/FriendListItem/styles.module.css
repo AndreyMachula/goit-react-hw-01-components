@@ -4,11 +4,12 @@
   justify-content: flex-start;
   align-items: center;
   width: 400px;
+  background-color: white;
   box-shadow: 4px 4px 15px 4px black;
 }
 
 .item:not(:last-child) {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .avatar {
